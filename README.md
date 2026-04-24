@@ -164,7 +164,7 @@ This repository is maintained for educational purposes and follows Stanford Code
 ---
 
 Thank you for being part of Stanford Code in Place 2025. Let’s make the most of this learning experience and build strong programming foundations together.
-Lun Marra Sab Ko
+
 ---
 
 Happy Coding!
